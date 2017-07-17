@@ -21,11 +21,11 @@
   "dependencies": {
     "@expo/vector-icons": "^5.0.0",
     "color": "^2.0.0",
-    "expo": "^17.0.0",
-    "native-base": "^2.1.5",
-    "react": "16.0.0-alpha.6",
+    "expo": "18.0.9",
+    "native-base": "2.2.0",
+    "react": "16.0.0-alpha.12",
     "react-apollo": "^1.4.2",
-    "react-native": "^0.44.0",
+    "react-native": "0.45.1",
     "react-native-router-flux": "^3.40.1"
   }
 }

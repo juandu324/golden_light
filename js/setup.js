@@ -12,13 +12,13 @@ import { createStore, combineReducers, applyMiddleware, compose } from 'redux';
 import { ApolloClient, ApolloProvider } from 'react-apollo';
 import { createNetworkInterface } from 'apollo-client';
 
-//import { todoReducer, userReducer } from './reducers';
+import reducers from './reducers';
 
 //Customized theme
 import { StyleProvider } from 'native-base';
 import getTheme from '../native-base-theme/components';
 
-
+//console.log("reducers", reducers);
 
 const client = new ApolloClient({
   networkInterface: createNetworkInterface({ uri: 'http://api.8gcool.com/graphql' }),
@@ -26,10 +26,12 @@ const client = new ApolloClient({
 const store = createStore(
   combineReducers({
     //todos: todoReducer,
-    //users: userReducer,
+    ...reducers,
     apollo: client.reducer(),
   }),
-  { }, // initial state
+  {
+    chapters: {}
+  }, // initial state
   compose(
     applyMiddleware(client.middleware()),
     // If you are using the devToolsExtension, you can add it here also

@@ -12,6 +12,7 @@ export default (variables = variable) => {
       height: 128,
       "NativeBase.Left": {
         alignSelf: "flex-start"
+        
       },
       "NativeBase.Body": {
         alignSelf: "flex-end",

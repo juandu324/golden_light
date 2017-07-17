@@ -105,7 +105,7 @@ export default {
   },
 
   // Card
-  cardDefaultBg: "#fff",
+  cardDefaultBg: "#f8b135",
 
   // Color
   brandPrimary: "#2874F0",
@@ -131,10 +131,10 @@ export default {
 
   // Footer
   footerHeight: 55,
-  footerDefaultBg: "#2874F0",
+  footerDefaultBg: "#f8b135",
 
   // FooterTab
-  tabBarTextColor: "#8bb3f4",
+  tabBarTextColor: "#eee",
   tabBarTextSize: platform === "ios" ? 14 : 11,
   activeTab: platform === "ios" ? "#007aff" : "#fff",
   sTabBarActiveTextColor: "#007aff",
@@ -151,7 +151,7 @@ export default {
 
   // Header
   toolbarBtnColor: "#fff",
-  toolbarDefaultBg: "#2874F0",
+  toolbarDefaultBg: "#f8b135",
   toolbarHeight: platform === "ios" ? 64 : 56,
   toolbarIconSize: platform === "ios" ? 20 : 22,
   toolbarSearchIconSize: platform === "ios" ? 20 : 23,
@@ -162,7 +162,7 @@ export default {
   iosStatusbar: "light-content",
   toolbarDefaultBorder: "#2874F0",
   get statusBarColor() {
-    return color(this.toolbarDefaultBg).darken(0.2).hexString();
+    return color(this.toolbarDefaultBg).darken(0.2).hex();
   },
 
   // Icon
@@ -201,18 +201,18 @@ export default {
   lineHeight: platform === "ios" ? 20 : 24,
 
   // List
-  listBorderColor: "#c9c9c9",
+  listBorderColor: "#eee",
   listDividerBg: "#f4f4f4",
   listItemHeight: 45,
-  listBtnUnderlayColor: "#DDD",
+  listBtnUnderlayColor: "#eee",
 
   // Card
-  cardBorderColor: "#ccc",
+  cardBorderColor: "#f9b439",
 
   // Changed Variable
   listItemPadding: platform === "ios" ? 10 : 12,
-
-  listNoteColor: "#808080",
+  
+  listNoteColor: "#444",
   listNoteSize: 13,
 
   // Progress Bar
@@ -229,7 +229,7 @@ export default {
   radioColor: "#7e7e7e",
 
   get radioSelectedColor() {
-    return color(this.radioColor).darken(0.2).hexString();
+    return color(this.radioColor).darken(0.2).hex();
   },
 
   // Spinner
@@ -261,7 +261,7 @@ export default {
   contentPadding: 10,
 
   get darkenHeader() {
-    return color(this.tabBgColor).darken(0.03).hexString();
+    return color(this.tabBgColor).darken(0.03).hex();
   },
 
   dropdownBg: "#000",

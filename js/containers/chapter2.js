@@ -7,20 +7,20 @@ import {Image} from 'react-native'
 import {Actions} from 'react-native-router-flux'
 
 
-export default class Main extends Component {
+export default class Chapter1 extends Component {
   render() {
     return (
       <Container>
         <Header>
-          <Left>
+          <Left>            
             <Button transparent onPress={Actions.home}>
               <Icon name='home' />
             </Button>
           </Left>
           <Body>
-            <Title>Home</Title>            
+            <Title>Chapter 2</Title>
           </Body>
-          <Right>
+          <Right>            
             <Button transparent onPress={Actions.menu}>
               <Icon name='menu' />
             </Button>
@@ -34,36 +34,40 @@ export default class Main extends Component {
             <CardItem >
               <Body>
                 <Body>
-                  <Text>The King of Glorious Sutras called the</Text>
-                  <Text style={{fontSize: 20, textAlign: 'center'}}>Exalted Sublime Golden Light</Text>
-                  <Text>A Mahayana Sutra</Text>
-                </Body>
+                  <Text style={{fontSize: 20,  textAlign: 'center'}}>
+
+                    
+                  </Text>
+              
+               </Body>
               </Body>
             </CardItem>
             
             <CardItem>
               <Body>
-                <Body>
-                  <Image source={require('../../images/golden_light.png')} resizeMode='cover'/>
-                  <Text style={{marginTop: 50}}>21 Chapter Version</Text>
-                </Body>
+                <Text>
+{`
+`}
+                </Text>
+                
               </Body>
             </CardItem>
           </Card>        
         </Content>
         <Footer>
           <FooterTab>
-            <Button vertical onPress={() =>Actions.cha({chapter:20})}>
+            <Button vertical onPress={Actions.home} >
               <Icon name="arrow-back"/>
               <Text>Prev Chapter</Text>
             </Button>
-            <Button vertical onPress={() =>Actions.cha({chapter:0})}>
-              <Icon name="arrow-forward"/>
+            <Button vertical>
+              <Icon name="arrow-forward" onPress={Actions.ch2}/>
               <Text>Next Chapter</Text>
             </Button>
           </FooterTab>
         </Footer>
-     
+
+        
       </Container>
     );
   }
