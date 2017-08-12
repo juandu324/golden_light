@@ -1,5 +1,15 @@
 {
   "expo": {
-    "sdkVersion": "18.0.0"
+    "name": "Golden Light",
+    "icon": "./images/golder_light_icon.png",
+    "version": "1.0.0",
+    "slug": "golden-light",
+    "sdkVersion": "17.0.0",
+    "ios": {
+      "bundleIdentifier": "com.ecool.goldenlight"
+    },
+    "android": {
+      "package": "com.ecool.goldenlight"
+    }
   }
 }
