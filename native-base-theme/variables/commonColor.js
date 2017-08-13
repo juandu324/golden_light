@@ -105,7 +105,7 @@ export default {
   },
 
   // Card
-  cardDefaultBg: "#f8b135",
+  cardDefaultBg: "#f0a125",
 
   // Color
   brandPrimary: "#2874F0",
@@ -131,7 +131,7 @@ export default {
 
   // Footer
   footerHeight: 55,
-  footerDefaultBg: "#f8b135",
+  footerDefaultBg: "#f0a125",
 
   // FooterTab
   tabBarTextColor: "#eee",
@@ -151,7 +151,7 @@ export default {
 
   // Header
   toolbarBtnColor: "#fff",
-  toolbarDefaultBg: "#f8b135",
+  toolbarDefaultBg: "#f0a125",
   toolbarHeight: platform === "ios" ? 64 : 56,
   toolbarIconSize: platform === "ios" ? 20 : 22,
   toolbarSearchIconSize: platform === "ios" ? 20 : 23,
