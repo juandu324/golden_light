@@ -1651,7 +1651,6 @@ word or a letter from the King of Glorious Sutras, the Sublime Golden Light, I w
 bhikshu who expounds the Dharma with all the definite sounds, letters and words. I will
 grant him dharani to prevent it being lost so that the King of Glorious Sutras, the Sublime
 Golden Light may last long without disappearing from Jambudvipa for the sake of sentient 
-46
 beings who plant roots of virtue before hundreds of thousands of buddhas, the
 Transcendent Lords, so that these numerous sentient beings may develop inconceivably
 sharp wisdom upon hearing the King of Glorious Sutras, the Sublime Golden Light, may receive
@@ -1689,7 +1688,6 @@ Thoroughly adorn the goddess
 With umbrellas, victory banners and flags.
 At intervals place mirrors,
 Arrows and spears. 
-47
 Then draw a boundary line
 And embark on what is to be done.
 Reciting the following mantra
@@ -1723,7 +1721,6 @@ medicaments, were well spoken indeed.”
 Then the goddess Sarasvati bowed at the feet of the Tathagata and sat on one side.
 Then, attracting the attention of the great goddess Sarasvati, the Brahmin teacher and
 expounder Kaundinya said: 
-48
 A great ascetic, the great goddess Sarasvati is worthy of worship.
 A great mine of virtue, you bestow supreme boons in all worlds.
 Supremely beautiful, you stand on one foot
@@ -1756,7 +1753,6 @@ In the worlds of gods, gandharvas and asura lords.
 She is adorned with limbs embellished with numerous virtues;
 Called Sarasvati, she blazes with merit; her eyes are broad.
 She is fully endowed with pristine wisdom’s virtue 
-49
 And resembles an array of precious jewels.
 I praise the virtue of her supreme eloquence.
 She gives the supreme boon
@@ -1795,7 +1791,6 @@ Sublime Golden Light.
 Then the great goddess Shri said this to the Tathagata: “Venerable Transcendent Victor, I
 the great goddess Shri will also give delight and well-being to that bhikshu who expounds
 the Dharma. I will offer garments, food, bedding, medicine to treat illness and many 
-50
 excellent articles to ensure that the bhikshu who expounds the Dharma has excellent
 resources, attains freedom from poverty, is sound in mind, has peace of mind day and
 night, retains various words and syllables of the King of Glorious Sutras, the Sublime Golden
@@ -1837,7 +1832,6 @@ and flavors. They should recite the name of the King of Glorious Sutras, the Sub
 Light, three times. They should say the word of truth. Likewise, if the great goddess Shri is
 venerated, if flowers are offered as well as perfumes and food of various tastes and flavors,
 then through the power of the King of Glorious Sutras, the Sublime Golden Light, the great 
-51
 goddess Shri will watch over that house. The mass of grain in that house will increase.
 Those who wish to invoke the great goddess Shri should remember the following mantras:
 Homage to all past, present and future buddhas!
@@ -1876,7 +1870,6 @@ Homage to the Bhagavan Tathagata Ratnashikhin.
 Homage to the Bhagavan Tathagata Vimalojjvalaratnarashmiprabhasaketu.
 Homage to the Tathagata Suvarnajambudhvajakanchanabha.
 Homage to the Tathagata Suvarnabhasagarbha. 
-52
 Homage to the Tathagata Suvarnashatarashmiprabhasaketu
 Homage to the Tathagata Suvarnaratnakaracchatrakuta.
 Homage to the Tathagata Suvarnapushpojjvalarashmiketu.
@@ -1919,7 +1912,6 @@ longevity, complexion and strength. Growing in majesty, strength and complexion 
 possessing robust bodies, they will work to accomplish hundreds and thousands of
 different activities on this earth. They will persevere. They will strive. They will perform
 actions that lend strength. O Venerable Transcendent Victor, through these means 
-53
 Jambudvipa will be at peace, have good crops, prosper and abide in the state of serene joy.
 It will be populated by many human beings. All beings in Jambudvipa will be happy and
 will experience a myriad of joys. These beings will have great complexion, robust bodies,
@@ -1963,7 +1955,6 @@ past events, the name of just one bodhisattva, the name of one tathagata, one st
 four lines, just one word or even just the name of the King of Glorious Sutras, the Sublime
 Golden Light, or, O Venerable Transcendent Victor, if these different beings in various
 places were to state this sutra’s various lines of reasoning to another being, or make them 
-54
 hear or narrate an account, then Venerable Transcendent Victor, all those places will
 become extremely lustrous. The various earth nutrients and resources will grow profusely
 in those places for the sake of all beings, will increase and greatly expand. All beings in turn
@@ -2004,7 +1995,6 @@ Then the great general of the yakshas called Samjnaya, along with the twenty-eig
 generals of the yakshas, rose from his seat, put his upper robe over one shoulder and knelt
 on his right knee. Bowing in reverence in the direction of the Tathagata, he addressed the
 Tathagata in this way: 
-55
  “O Venerable Lord, now or in a future time, in villages, cities, towns, valleys, forest
 retreats, hilly medicinal valleys, or palaces, wherever the King of Glorious Sutras, the Sublime
 Golden Light exists, O Venerable Lord, I, Samjnaya, the great general of the yakshas, along
@@ -2046,7 +2036,6 @@ of Glorious Sutras, the Sublime Golden Light, may achieve inconceivable bodies o
 be endowed with wisdom, hold inconceivable masses of merit, experience the
 inconceivable well-being of humans and gods for hundreds of thousands of millions of
 eons, keep the company of tathagatas, and in future times be awakened to supreme and 
-56
 perfect enlightenment, and that all suffering in the world of Yama, hell beings and animals
 may utterly cease to exist.”
 This ends the eleventh chapter, the Chapter on Samjnaya, from the King of Glorious Sutras,
@@ -2084,7 +2073,6 @@ O kings, all, one by one,
 Be in a state of delight!
 Listen with your hands folded in reverence
 To this entire Commitments of Divine Kings. 
-57
 Here at Vajrakara, the king of mountains,
 When the divine lords assembled,
 All the world protectors stood up
@@ -2124,7 +2112,6 @@ The divine rulers of Thirty-Three
 Create such human kings in this way
 In order to bring misconduct to an end,
 Thwart what is against the Dharma 
-58
 And set beings in virtuous deeds
 So they may ascend to celestial abodes.
 The kings of humans – be they gandharva, rakshasa
@@ -2160,7 +2147,6 @@ When a king does not perform the function
 For which kingship had been bestowed,
 He demolishes his own realm
 As the elephant lord destroys a lotus pond. 
-59
 Unfavorable winds will arise;
 Unfavorable rains will fall;
 The sun and moon will be unfavorable,
@@ -2198,7 +2184,6 @@ Shooting stars will rain down;
 Likewise, mock suns will shower.
 Fear of foreign armies
 And famine will greatly occur. 
-60
 His valued minister, beloved elephant
 And cherished camels will die too.
 People will pillage one another,
@@ -2235,7 +2220,6 @@ Will fill those regions completely.
 Large sweet fruit will shrivel, becoming bitter and sharp.
 Play, humor and fun – the pleasures of previous times
 Now rife with infinite delusion – 
-61
 Will lose the touch of joy.
 Fruits and crops will lose their succulence and force.
 They will cease to nourish body, elements or senses.
@@ -2271,7 +2255,6 @@ When a king ignores those who
 Carry out misdeeds in his realm,
 Through those misdeeds, gods will fall
 From the Heaven of the Thirty-Three. 
-62
 When a king does not fulfill his duty,
 He is no longer his forefather’s son
 And the kings of gods
@@ -2310,7 +2293,6 @@ The kings of gods become wrathful;
 Then all things in that realm
 Will be doomed to misfortune.
  
-63
 Hence, those who commit misdeeds
 Must be tamed according to their crime.
 In the realm protected in keeping with the Dharma,
@@ -2347,7 +2329,6 @@ Gods and gods’ divine children
 Will always abound in that place.
 Hence, the king should forsake his own cherished life,
 But never give up the Dharma jewel. 
-64
 To ensure the welfare of the world,
 He should seek company with those sublime ones
 Fully adorned with virtue, happy with their people
@@ -2387,7 +2368,6 @@ Ruling the four continents,
 He reigned the earth as far as the oceans.
 One day that good king fell asleep
 In the palace known as Jinendraghosha. 
-65
 In a dream he heard the virtues of Buddha;
 In the middle of sleep, he did vividly see
 The Dharma preacher Ratnocchaya,
@@ -2423,7 +2403,6 @@ And the gods in the triple thousand worlds
 Rejoiced with great delight.
 Then that king of humans
 Sprinkled that clean, supremely superb site 
-66
 With jewel-like water and fragrant water too.
 He carpeted the ground with loose flowers and set up a throne.
 Embellishing the throne with umbrellas,
@@ -2461,7 +2440,6 @@ At that time, King Susambhava,
 In order to venerate this sutra,
 Took hold of Chintamani, the king of jewels,
 And made this dedication for all beings’ sake: 
-67
 ‘May there now rain down in Jambudvipa
 Ornaments made of seven jewels
 And great riches that bring peace and well-being
@@ -2497,7 +2475,6 @@ For ninety-nine billion eons
 I became a Chakravartin king.
 For numerous hundreds of thousands of eons
 I ruled as a lesser king. 
-68
 For inconceivable eons I became Shakra
 And likewise Brahma with a tranquil mind.
 I have found the inconceivable ten powers
@@ -2538,7 +2515,6 @@ Middle, nor likewise this sutra’s end.
 This sutra is deeply profound,
 For there is nothing with which it compares:
 Neither grains of sand in the Ganges, 
-69
 Those on earth, in the oceans,
 Nor atoms in the sky are its equal.
 When entering the sphere of reality,
@@ -2575,7 +2551,6 @@ When he comes down from this throne,
 Although he may go to another place,
 Miracles will be seen
 There upon that throne. 
-70
 At times, the form of
 The Dharma preacher will be observed;
 At others, buddha and bodhisattva
@@ -2614,7 +2589,6 @@ Also the lords of the Thirty-Three,
 Samjnaya, the chief conqueror,
 And Vajrapani, the yaksha lord,
 Anavatapta, lord of nagas, 
-71
 Sagara and the asura lords,
 The lords of the kinnaras,
 And likewise, the lords of garudas –
@@ -2652,7 +2626,6 @@ Likewise Shri and Vaishravana,
 By the four kings
 With hundreds of thousands of yakshas
 Possessed of miraculous power and great strength. 
-72
 Indra, Soma and Yama,
 Vayu, Varuna and Skanda,
 Vishnu and Sarasvati,
@@ -2693,7 +2666,6 @@ Suchiroma and Suryamitra,
 Likewise Ratnakesha,
 Mahapranalin and Nakula,
 Along with Kamashreshtha and Chandana, 
-73
 Nagayana and Haimavata,
 And likewise Satagiri –
 These powerful beings who overwhelm every foe,
@@ -2733,7 +2705,6 @@ Deities of fruit, forest and crops,
 Those who dwell in stupas, trees and parks,
 The wind deity and every deity here,
 These goddesses and the Earth Goddess herself, 
-74
 Their minds overflowing with joy, will offer protection
 To those who have heard this sutra.
 They will bring longevity, complexion,
@@ -2770,7 +2741,6 @@ Every park, all forests and all fruit-bearing trees
 Will bloom with flowers giving off fragrant scents.
 On this earth will grow every kind of forest and bush,
 Adorned with flowers and laden with fruit. 
-75
 In all of Jambudvipa, innumerable naga maidens –
 Their minds immensely filled with joy –
 Will approach lotus pools and plant there many lotuses,
@@ -2807,7 +2777,6 @@ The whole of Jambudvipa
 Will have an excellent year;
 In the place this sutra is kept
 There will always be plenty. 
-76
 This ends the fourteenth chapter, the Chapter on Protection called Refuge of the Yakshas,
 from the King of Glorious Sutras, the Sublime Golden Light. 
 `
@@ -2851,7 +2820,6 @@ head, beloved sons, daughters and wives. There is not even a word to hear that t
 away wealth, grain, inns, gold, jewels, pearl, lapis, conches, crystals, coral, silver, golden
 bronze and gems. There is not even a word to hear that they gave away food and drink,
 mounts, clothing, bedding, dwellings, palaces, parks, hedges, pools and ponds. There is not 
-77
 even a word to hear that they gave away elephants, cows and bulls, stallions and male and
 female servants. Before they received the prophecy of their own tathagata names from the
 buddhas, incalculable numerous hundreds of thousands of millions of bodhisattvas for
@@ -2934,7 +2902,6 @@ cities, settlements, valleys, regions and royal palaces and completely free hund
 thousands of beings from their various sicknesses.’
 “Moreover, O noble goddess, at that time and at that moment, Jalavahana the merchant’s
 son went to his father Jatimdhara. He approached him and bowed at the feet of his father 
-79
 Jatimdhara, folded his palms in reverence and sat on one side. Remaining on one side, he
 questioned his father Jatimdhara in these verses:
 How do the senses apprehend objects?
@@ -2969,7 +2936,6 @@ As the senses go through such changes
 Afflictions arise for embodied beings.
 In that case, a doctor must have knowledge
 Of the three-month fourfold division 
-80
 And the six phase grouping of two months.
 Food, drink and medicine follow this sequence:
 
@@ -3007,7 +2973,6 @@ merchant’s son, those numerous hundreds of thousands of beings were overcome w
 unfathomable great joy. They received comfort and were endowed with inconceivable
 happiness, peace and peace of mind. At that time and at that moment, those hundreds of
 thousands of beings afflicted with and distressed by various ailments were completely cured 
-81
 of their illnesses and became free of illness. After becoming free of illness, they became
 endowed with prowess, strength and energy as before.
 “Furthermore, at that time and at that moment, among the hundreds of thousands of
@@ -3048,7 +3013,6 @@ wondered: ‘Why are these flesh eating dogs, wolves, jackals, flocks of crows a
 heading in that direction?’ He thought: ‘I should go in the direction where the dogs,
 wolves, jackals, crows and other birds are running.’ O noble goddess, then Jalavahana the
 merchant’s son gradually headed for Atavisambhava, the forest pool. 
-82
 “In that great pool there lived ten thousand fish. There he saw that numerous hundreds of
 fish were bereft of water. He felt great compassion for those fish. The moment he
 generated that thought, he saw a goddess emerging from a tree with just half her body. The
@@ -3089,7 +3053,6 @@ happiness to beings.’
 and Jalagarbha, taking twenty elephants and a hundred ox leather bags, returned to where
 the great river Jalagama flows. They filled the bags with water, put them on the elephants’
 backs and sped away to the forest wilderness where the pool Atavisambhava was. They took 
-83
 the bags from the back of the elephants and filled the pool with water. They walked about
 in the four directions. Wherever Jalavahana the merchant’s son went, those ten thousand
 fish followed after him.
@@ -3129,7 +3092,6 @@ sources arise. Due to the six sense sources, contact arises; due to contact, fee
 to feelings, craving arises; due to craving, grasping arises. Due to grasping, existence arises.
 From existence arise aging and death, sorrow, lamentation, suffering, unease of mind,
 conflict and strife. In this way, this great aggregate of suffering comes into being. 
-84
 Furthermore, it is this way: with the cessation of ignorance, karmic formation ceases and
 likewise through to the cessation of this great aggregate of suffering.’
 “Having given this Dharma teaching to those beings in the animal state, O noble goddess,
@@ -3168,7 +3130,6 @@ Then King Sureshvaraprabha said to the ministers: ‘Sirs, with kind words, summ
 Jalavahana the merchant’s son.’ The astrologers and senior ministers went to Jalavahana’s
 house and said to Jalavahana, the merchant’s son, ‘King Sureshvaraprabha has asked for
 you.’ 
-85
 “Then Jalavahana the merchant’s son, together with the senior ministers, went to King
 Sureshvaraprabha. The king asked, ‘Jalavahana, last night such omens occurred. Do you
 know the reason such omens appeared?’ Then Jalavahana the merchant’s son replied to
@@ -3211,7 +3172,6 @@ aspiration, supreme joy and reverence, they have all received prophecies and nam
 noble goddess, if you think that the forest goddess at that time, at that moment was
 another, do not see it like that. Why? O noble goddess, at that time, at that moment, you
 were that forest goddess. 
-86
 “On these counts, O noble goddess, let it be known that while revolving in cyclic existence,
 I have fully ripened many beings towards full awakening and all received the prophecy to
 supreme and perfect enlightenment.”
@@ -3249,7 +3209,6 @@ Delight in calm, humility and the mind of recollection. Tell us well.
 “Then the Tathagata struck the surface of the earth with his hand, whose palm was soft as
 the newly bloomed lotus and marked with a thousand-spoked wheel. As soon as he struck
 it, the earth shook in six ways and there arose a stupa made of silver, gold and jewels. Then 
-87
 the Tathagata said to the Venerable Ananda: ‘Ananda, open this stupa.’ Heeding these
 instructions, the Venerable Ananda opened the stupa. Inside he saw an urn covered with
 gold and inlaid with jewels and pearls. Having seen this, he said to the Tathagata, ‘O
@@ -3289,7 +3248,6 @@ Here in the forest solitude acclaimed by seers,
 I am not anxious nor have I fear.
 This heart of mine is greatly overjoyed
 In hope of finding opportunity for vast and great benefit. 
-88
 “‘Then, as the princes strolled through the Dvadashavanagulma forest, they came upon a
 tigress who had given birth the previous week, surrounded by her offspring, hungry and
 thirsty, famished, her body extremely feeble. Seeing her, Mahapranada said: “Alas! It would
@@ -3324,7 +3282,6 @@ Filled with feces and urine, without core, like foam, bearing hundreds of worms,
 waste to what has been done,
 I shall attain the dharmakaya’s timeless state, free of the afflicted aggregates,
 Sorrowless and endowed with samadhi, replete with hundreds of stainless virtues. 
-89
 “‘His heart brimming with supreme compassion and resolve, he asked his brothers to leave
 him: “You two can go off. I am returning to the Dvadashavanagulma for a personal thing.”
 Then Prince Mahasattva left that part of the forest and returned to where the tigress was.
@@ -3360,7 +3317,6 @@ And the way he keenly observed the tigress –
 Tortured by suffering and weak, nearly eating her cubs –
 I too am troubled.
  
-90
 “‘Then, overcome by extreme grief, their eyes filling with tears, the two young princes went
 back along the path to where the tigress was. They saw his clothes hanging on bamboo
 shoots, his bloody bones scattered about, his hair spread in every direction. Upon seeing
@@ -3398,7 +3354,6 @@ the king saw the two princes approaching from afar. Upon seeing them, the king c
 son.
 The joy of gaining a son for a man
 Does not equal the pain of losing a son for another; 
-91
 Are those men not happy who have no sons in the world,
 Or those who have met death with their children still living?
 “‘Overcome with grief, the queen, like a she-camel struck in the vital part, issued a most
@@ -3435,7 +3390,6 @@ This heart of mine is clearly made of iron;
 It does not crack in the face of tragic pain.
 Today in my dream, my breasts were cut with a sword,
 My teeth were wrenched from my mouth; 
-92
 And today my darling son is suddenly no more.
 Just as one of three doves I held was snatched by a hawk,
 Today, surrounded by three sons, death has seized one.
@@ -3472,7 +3426,6 @@ Mahasattva, the son of Maharatha,
 Saw the famished tigress and her cubs;
 With compassionate thought to save them
 He fell down the mountain slope. 
-93
 The earth with its mountains shook –
 Scattering various flocks of birds
 And terrifying herds of deer –
@@ -3509,7 +3462,6 @@ Her body and limbs were racked by sharp pain
 As if they were pierced by pins.
 Deeply distressed, she was pierced by the arrows of sorrow.
 Her heart flooded with grief, she approached the king. 
-94
 Wretched, weeping before the king,
 She said this to King Maharatha:
 
@@ -3546,7 +3498,6 @@ People all over that city
 Came out of their various homes.
 Crying and with tears flowing,
 They asked after Mahasattva: 
-95
 ‘Is he alive or dead?
 Where has Mahasattva gone?
 Today will we glimpse that one
@@ -3583,7 +3534,6 @@ Thus, they followed after him.
 The moment the king left that city
 To look for his beloved sons
 He gazed with staring eyes in every direction. 
-96
 He saw a man coming his way,
 His head shaven, his limbs smeared with blood;
 His clothes covered with dust and dirt,
@@ -3620,7 +3570,6 @@ Then Mahasattva jumped down that steep slope;
 The famished tigress stood up.
 Quickly making his body without flesh,
 She left the prince with just a few bones.’ 
-97
 Upon hearing these dreadful words,
 His mind was shattered.
 King Maharatha fainted and fell to the ground.
@@ -3658,7 +3607,6 @@ The king, escorted by a host of ministers,
 Mounting his elephant went to see his two sons.
 Crying in wretched pitiful voices, the two princes
 Came their way, calling out their brother’s name. 
-98
 The king wept in anguish.
 He took his two sons and returned home.
 Quickly, like one in great haste,
@@ -3698,7 +3646,6 @@ Sutras, the Sublime Golden Light.
 Then those hundreds of thousands of bodhisattvas approached the Tathagata
 Suvarnaratnakaracchatrakuta. Paying homage with their heads at the feet of the Tathagata
 Suvarnaratnakaracchatrakuta, they stood to one side. Having stood to one side, the 
-99
 numerous hundreds of thousands of bodhisattvas folded their hands in reverence and
 praised the Tathagata Suvarnaratnakaracchatrakuta in these verses:
 O Conqueror, your body resembles refined gold,
@@ -3734,7 +3681,6 @@ Nothing can be found that is comparable
 To the sage’s ocean of virtue and wisdom.
 Possessing compassion for beings laden with life,
 You have the powers of love, perseverance and skill. 
-100
 There is none among beings, even among gods,
 Who in many thousands of millions of eons
 Can fully explain merely one drop of virtue
@@ -3773,7 +3719,6 @@ You are adorned with the virtue of pure compassion.
 You have gathered sublime merit through concentration and love.
 Possessed of sublime minor marks in many colors,
 You fulfill beings with all happiness. 
-101
 Beautified by enlightenment’s seven wings,
 You are adorned with virtues such as samadhi.
 Giver of well-being, all peace and happiness stem from you.
@@ -3813,7 +3758,6 @@ How amazingly compassionate is the Tathagata –
 The pinnacle of the Shakya kings, a sun among lords of men –
 That he has expounded such a sublime sutra as this
 In order to nurture and guide all beings! 
-102
 With his senses serene, the Tathagata Shakyamuni
 Has entered the city of peace, most sublime.
 So profound, calm and pure is your concentration,
@@ -3849,7 +3793,6 @@ Bodhisattvasamucchaya, the daughters of gods such as the noble goddess Sarasvati
 hosts of goddesses such as the noble goddess Shri, the divine kings such as Vaishravana,
 the whole assembly and the entire world of gods, humans, asuras, gandharvas, kinnaras,
 maharogas and so forth rejoiced and greatly praised the speech of the Tathagata. 
-103
 This ends the twenty-first chapter, the Concluding Chapter from the King of Glorious Sutras,
 the Sublime Golden Light.
 The King of Glorious Sutras called the Exalted Sublime Golden Light is completed. 
@@ -3891,7 +3834,6 @@ the spontaneous fruition of their seamless altruism for the highest good of Budd
 beings.
 I also dedicate the merits to the just cause of the oppressed people of the world and the speedy fulfillment of
 their hopes and aspirations. 
-104
 Last, but not least, I thank my wife, Sallie Dawa, and children, Yeshe and Samdrub Dawa for bearing with me
 with the inconveniences I imposed on them during the course of this translation. I am also grateful to the
 University of Otago Language Centre for their kind assistance in the use of their electronic services when

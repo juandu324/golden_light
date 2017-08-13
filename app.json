@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "Golden Light",
-    "icon": "./images/golder_light_icon.png",
+    "icon": "./images/golden_light_icon.png",
     "version": "1.0.0",
     "slug": "golden-light",
-    "sdkVersion": "17.0.0",
+    "sdkVersion": "19.0.0",
     "ios": {
       "bundleIdentifier": "com.ecool.goldenlight"
     },

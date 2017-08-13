@@ -21,11 +21,11 @@
   "dependencies": {
     "@expo/vector-icons": "^5.0.0",
     "color": "^2.0.0",
-    "expo": "18.0.9",
-    "native-base": "2.2.0",
+    "expo": "19.0.0",
+    "native-base": "2.3.1",
     "react": "16.0.0-alpha.12",
-    "react-apollo": "^1.4.2",
-    "react-native": "0.45.1",
-    "react-native-router-flux": "^3.40.1"
+    "react-apollo": "1.4.2",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-19.0.0.tar.gz",
+    "react-native-router-flux": "3.40.1"
   }
 }

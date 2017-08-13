@@ -34,9 +34,7 @@ export default class Chapter1 extends Component {
           </Right>
         </Header>
 
-        
-        <Content>
-          
+        <Content>          
           <Card style={{flex: 0}}>
             <CardItem >
               <Body>
@@ -65,15 +63,14 @@ export default class Chapter1 extends Component {
               <Icon name="arrow-back"/>
               <Text>Prev Chapter</Text>
             </Button>
-            <Button vertical>
-              <Icon name="arrow-forward" onPress={()=> {
-                  console.log("click", next_chapter);
-                  if(next_chapter >= max_chapter) Actions.home(); else Actions.cha({chapter:next_chapter});}}/>
+            <Button vertical onPress={()=> {
+                console.log("click", next_chapter);
+                if(next_chapter >= max_chapter) Actions.home(); else Actions.cha({chapter:next_chapter});}}>
+              <Icon name="arrow-forward"/>
               <Text>Next Chapter</Text>
             </Button>
           </FooterTab>
         </Footer>
-
         
       </Container>
     );
